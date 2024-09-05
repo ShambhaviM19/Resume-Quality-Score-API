@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pandas
+xlrd
+python-dotenv
+fuzzywuzzy
+spacy
+numpy

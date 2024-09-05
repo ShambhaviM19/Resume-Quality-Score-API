@@ -1,0 +1,112 @@
+resume_data = {
+    "Name": "Dipanshu Pandey",
+    "Email": "dipanshu.pandey.002@gmail.com",
+    "Phone-Number": "+91 9548339865",
+    "Summary": "Software Engineer Intern at Media.net with experience in implementing APIs, deploying applications, and conducting research for spam detection. Skilled in C/C++, Python, Java, SQL, and various technologies.",
+    "Current-Location": "India",
+    "Current-Company": "Media.net",
+    "Skills": "C/C++,Python,Java,SQL,JavaScript,HTML/CSS,Node.js,Django,Express.js,Bootstrap,Selenium,MongoDB,FastAPI,Git,Jenkins,Docker,Kafka",
+    "Linkedin-Id": "linkedin.com/in/callmepandey",
+    "Github-Id": "",
+    "Total-Experience": 0.75,
+    "Education": [
+        {
+            "Degree": "B.Tech. in Computer Science and Engineering",
+            "Specialization": "",
+            "Institute": "Graphic Era University, Dehradun, India",
+            "Start": "June 2019",
+            "End": "June 2023"
+        }
+    ],
+    "Experiences": [
+        {
+            "Company Name": "Media.net",
+            "Designation": "Software Engineer Intern",
+            "Start": "January 2023",
+            "End": "Present",
+            "Description": "• Implemented fastapi-based API to enhance scalability and efficiency of Selenium app for data collection. • Deployed fastapi app using Docker for easy team-wide accessibility and utilization. • Conducted research to identify a new signal for detecting user agent spoofing and integrated it into the spam detection framework."
+        },
+        {
+            "Company Name": "Media.net",
+            "Designation": "Summer Software Engineering Intern",
+            "Start": "May 2022",
+            "End": "July 2022",
+            "Description": "• Collaborated with the spam detection team to optimize the data collection process for the verification system. • Compiled a comprehensive list of over 20 distinct user engagement activities for the framework’s configuration. • Created an automated framework utilizing Selenium to replicate user activities."
+        }
+    ],
+    "Projects": [
+        {
+            "Project": "Realtime-Interview",
+            "Project-Description": "• Designed and developed a live interview web application with online IDE support. • Created multi-room functionality with a capacity of 2 people per room. • Implemented a chat-box and plagiarism prevention mechanism for secure interviews."
+        },
+        {
+            "Project": "Contest Helper",
+            "Project-Description": "• Created a CRUD web app that enables users to save upcoming programming contests with links. • Provided support for multiple coding platforms and utilized a SQLite database for data storage. • Utilized Bootstrap to design a user-friendly and intuitive UI for the application."
+        }
+    ],
+    "Roles-Responsibility": [],
+    "Certifications": [
+        "Google Coding Competition by Google - Achieved global rank 175 and 9 in India for Google CodeJam Round 1A in 2022.",
+        "Codeforces Candidate Master - Maintained a problem-solving streak of over 470 days and solved 2400+ problems.",
+        "LeetCode Guardian - Achieved global rank 498 and rank 23 in India with over 150 problems solved.",
+        "ACM ICPC India Regionals - Ranked 60th among 2300 teams in ICPC India 2021 preliminary online round.",
+        "TCS CodeVita Season 10 - Secured 11th position globally and 3rd in India among 100,000 participants in TCS CodeVita 10th edition."
+    ]
+}
+
+resume_data={
+        "Name": "Aarav Sharma",
+        "Email": "aarav.sharma.789@gmail.com",
+        "Phone-Number": "+91 9876543210",
+        "Summary": "Experienced Software Developer at Infosys with a strong background in full stack development, cloud computing, and data analysis. Proficient in JavaScript, Python, React, and AWS. Passionate about leveraging technology to solve real-world problems.",
+        "Current-Location": "India",
+        "Current-Company": "Infosys",
+        "Skills": "JavaScript,Python,React,Node.js,SQL,HTML/CSS,Express.js,AWS,Azure,Docker,Git,Jenkins",
+        "Linkedin-Id": "linkedin.com/in/aaravsharma",
+        "Github-Id": "",
+        "Total-Experience": 3,
+        "Education": [
+            {
+                "Degree": "B.Tech. in Information Technology",
+                "Specialization": "",
+                "Institute": "Vellore Institute of Technology, Vellore, India",
+                "Start": "July 2015",
+                "End": "May 2019"
+            }
+        ],
+        "Education-Year": [
+            "2019"
+        ],
+        "Experiences": [
+            {
+                "Company Name": "Infosys",
+                "Designation": "Software Developer",
+                "Start": "June 2020",
+                "End": "Present",
+                "Description": "• Developed and maintained web applications using React, Node.js, and Express.js. • Implemented CI/CD pipelines using Jenkins to streamline the deployment process. • Worked on cloud migration projects using AWS and Azure."
+            },
+            {
+                "Company Name": "Wipro",
+                "Designation": "Junior Software Developer",
+                "Start": "July 2019",
+                "End": "May 2020",
+                "Description": "• Assisted in developing enterprise-level web applications. • Conducted code reviews and contributed to improving coding standards. • Worked on database management using SQL and MongoDB."
+            }
+        ],
+        "Projects": [
+            {
+                "Project": "E-commerce Platform",
+                "Project-Description": "• Developed a scalable e-commerce platform using React and Node.js. • Implemented features such as user authentication, product management, and order processing. • Deployed the application on AWS for high availability."
+            },
+            {
+                "Project": "Data Analytics Dashboard",
+                "Project-Description": "• Created a data analytics dashboard for visualizing key business metrics. • Used Python and Dash to process and display data in real-time. • Integrated with various data sources such as SQL databases and APIs."
+            }
+        ],
+        "Roles-Responsibility": [],
+        "Certifications": [
+            "AWS Certified Solutions Architect - Achieved certification in 2021.",
+            "Certified ScrumMaster - Completed certification in 2020.",
+            "Google Cloud Professional Data Engineer - Certified in 2019."
+        ]
+    }
